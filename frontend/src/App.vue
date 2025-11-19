@@ -3,6 +3,7 @@
     <router-link to="/">Inicio</router-link>
     <router-link to="/cart">Carrito</router-link>
     <router-link to="/about">About</router-link>
+    <router-link to="/product/new">Nuevo producto</router-link>
   </nav>
   <main style="max-width:1100px;margin:0 auto;padding:16px">
     <Suspense>
