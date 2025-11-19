@@ -7,7 +7,7 @@ API REST para catálogo de productos.
 - MongoDB en local o Atlas
 
 ## Configuración
-1. Copia `.env.example` a `.env` y ajusta valores si necesitas.
+1. Copiar `.env.example` a `.env` y ajusta valores si se necesita.
 2. Instala dependencias:
    ```bash
    npm install

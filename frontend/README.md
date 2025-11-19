@@ -19,4 +19,4 @@ SPA con Vue 3 (Composition API, SFC) que consume el API REST propio.
    npm run dev
    ```
 
-Abre `http://localhost:5173` en tu navegador.
+Abrir `http://localhost:5173` en el navegador.
