@@ -5,6 +5,7 @@
   "type": "commonjs",
   "license": "MIT",
   "scripts": {
+    "start": "node app.js",
     "dev": "node app.js",
     "seed": "node scripts/seed.js"
   },
